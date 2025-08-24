@@ -1,4 +1,4 @@
 # Spöt App
 
 
-This repository is shown
+This repository is not shown)
